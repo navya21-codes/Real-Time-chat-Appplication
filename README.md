@@ -22,7 +22,9 @@ This is a full-stack **Real-Time Chat Application** built using **React** on the
 
 ##  How to Run the Project Locally
 
+
 ### Clone the Repository
+
 
 bash
 git clone https://github.com/navya21-codes/Real-Time-chat-Appplication
