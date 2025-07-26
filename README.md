@@ -4,10 +4,10 @@ This is a full-stack **Real-Time Chat Application** built using **React** on the
 
 ## Features
 
-- 🔁 Real-time chat using **WebSockets (Socket.IO)**
-- ⚛ Frontend built using **React**
-- ⚡ Fast and responsive interface
-- 📡 Backend powered by **Node.js** and **Express**
+- Real-time chat using **WebSockets (Socket.IO)**
+- Frontend built using **React**
+- Fast and responsive interface
+- Backend powered by **Node.js** and **Express**
 
 ## Tech Stack
 
