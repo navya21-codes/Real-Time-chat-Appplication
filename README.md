@@ -1,15 +1,15 @@
-# 💬 Real-Time Chat Application
+# Real-Time Chat Application
 
 This is a full-stack **Real-Time Chat Application** built using **React** on the frontend and **Node.js** with **Socket.IO** on the backend. It allows users to send and receive messages instantly in real time.
 
-## 🚀 Features
+## Features
 
 - 🔁 Real-time chat using **WebSockets (Socket.IO)**
 - ⚛ Frontend built using **React**
 - ⚡ Fast and responsive interface
 - 📡 Backend powered by **Node.js** and **Express**
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology  | Description                 |
 |-------------|-----------------------------|
