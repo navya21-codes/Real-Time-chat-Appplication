@@ -13,11 +13,11 @@ This is a full-stack **Real-Time Chat Application** built using **React** on the
 
 | Technology  | Description                 |
 |-------------|-----------------------------|
-| React       | Frontend UI framework       |
-| Node.js     | Backend runtime             |
-| Express     | Web server framework        |
-| Socket.IO   | Real-time communication     |
-| HTML, CSS   | Layout and styling          |
+| **React**       | Frontend UI framework       |
+| **Node.js**     | Backend runtime             |
+| **Express**     | Web server framework        |
+| **Socket.IO**   | Real-time communication     |
+| **HTML, CSS**   | Layout and styling          |
 
 
 ##  How to Run the Project Locally
@@ -55,5 +55,7 @@ npm start
 
 Now open your browser and go to:
 *http://localhost:3000*
+
+
 
 ******You can now use the real-time chat app!******
